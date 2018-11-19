@@ -1,0 +1,13 @@
+TME810 - Calixte Faure
+
+Le travail demandé est réalisé.
+Je me suis permis d'ajouter quelques options :
+  *Les InstancesWidget et CellsLib sont "dockables"
+  *CellsModel devient une QList
+  *Un mode vi pour se déplacer avec HJK et L
+  *Le titre de la fenêtre prend le nom de la cellule visualisée
+
+Foncionnalités que je n'ai pas réussi à implanter :
+> rendre les bouttons Load des Widgets actifs sur Entrée... (apparement ça ne marche que pour les QDialog, pas les QWidget)
+> load en double cliquant
+> tri du tableau
